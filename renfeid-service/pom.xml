@@ -26,7 +26,7 @@
         <maven.compiler.target>8</maven.compiler.target>
         <spring-boot.version>2.7.2</spring-boot.version>
         <spring-cloud.version>2021.0.3</spring-cloud.version>
-        <aws-sdk.version>2.17.228</aws-sdk.version>
+        <aws-sdk.version>2.17.242</aws-sdk.version>
         <git.commit.plugin>5.0.0</git.commit.plugin>
         <spring.checkstyle.plugin>0.0.34</spring.checkstyle.plugin>
         <buildtimestamp>${maven.build.timestamp}</buildtimestamp>
