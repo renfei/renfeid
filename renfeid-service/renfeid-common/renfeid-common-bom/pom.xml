@@ -20,7 +20,7 @@
         <mariadb-client.version>2.7.5</mariadb-client.version>
         <jjwt.version>0.11.5</jjwt.version>
         <flowable.version>6.7.2</flowable.version>
-        <sentry.version>6.2.1</sentry.version>
+        <sentry.version>6.3.0</sentry.version>
         <curator-recipes.version>5.3.0</curator-recipes.version>
         <commons-io.version>2.11.0</commons-io.version>
         <lang3.version>3.12.0</lang3.version>
